@@ -18,10 +18,10 @@ according to mysql docs the mysql can only be used in my program at a time so  i
 <hr>
 
 <br>
-right click o the application and click **stop**<br>
+right click o the application and click **stop**
 ![](./mysql80_stop.PNG)
 <hr>
-
 <br>
-if you try now to run mysql it will start work.<br>
+if you try now to run mysql it will start work.
+<br>
 ![](./error_solved.PNG)
