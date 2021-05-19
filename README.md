@@ -16,7 +16,6 @@ a dialog box will open like the image below
 according to mysql docs the mysql can only be used in my program at a time so  if the mysql not working it means that the mysql is already in use at the backend like the image below<br>
 ![](./mysql_already_running.PNG)
 <hr>
-
 <br>
 right click o the application and click **stop**
 ![](./mysql80_stop.PNG)
