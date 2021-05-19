@@ -22,5 +22,4 @@ right click o the application and click **stop**
 <hr>
 <br>
 if you try now to run mysql it will start work.
-<br>
 ![](./error_solved.PNG)
